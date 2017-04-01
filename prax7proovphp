@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+	<head>
+	<title>PHP</title>
+	</head>
+	<body>
+	<h1>PHP</h1>
+	
+	<code>
+<?php
+	
+$muutuja = "555";
+$muutuja2 ="123";
+	
+	echo $muutuja . $muutuja2;
+	
+?>
+	</code>
+	</body>
